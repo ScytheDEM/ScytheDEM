@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ScytheDEM
 - 👀 I’m interested in computer hardware
 - 🌱 I’m currently learning software technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram: @aliclonsdale email:aliclonsdale@gmail.com
 
 <!---

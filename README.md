@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScytheDEM
+- 👋 Hi, I’m Alic!
 - 👀 I’m interested in computer hardware
 - 🌱 I’m currently learning software technology
 - 📫 How to reach me instagram: @aliclonsdale email:aliclonsdale@gmail.com
